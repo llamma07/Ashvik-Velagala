@@ -1,0 +1,108 @@
+*{
+    transition: 0.3s;
+    margin-left: 60px;
+    margin-right: 60px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(232, 232, 232);
+}
+p{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 350px;
+    font-size: 16px;
+    color:rgb(18, 18, 171);
+}
+.Logline{
+    color: #1D3557;
+}
+
+.headshot
+{
+    
+    margin-right: 100px;
+}
+img{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    width: 15%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bar{
+    list-style-type: none;
+    text-align: center;
+}
+
+.ba{
+    text-decoration: none;
+    color: #1D3557;
+    font-size: 20px;
+
+}
+
+.ba:nth-child(2){
+    color: #E63946;
+}
+
+.ba:hover{
+    color: #E63946;
+}
+.kyd{
+    width:1100px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 0px;
+}
+
+.awards{
+    padding: 0px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+i{margin-left: 0px;}
+div{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.h1{
+    text-decoration: none;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    margin-left: 0px;
+}
+
+.h1:hover{
+    text-decoration: none;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(255, 0, 0);
+    margin-left: 0px;
+}
+
+.h2{
+    text-decoration: none;
+    color: rgb(72, 12, 161);
+    margin-left: 0px;
+}
+
+.h2:hover{
+    text-decoration: none;
+    color: rgb(0, 196, 222);
+    margin-left: 0px;
+}
+
+
+.h3{
+    text-decoration: none;
+    color: rgb(12, 156, 161);
+    margin-left: 0px;
+}
+
+.h3:hover{
+    text-decoration: none;
+    color: rgb(32, 3, 127);
+    margin-left: 0px;
+}
